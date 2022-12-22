@@ -1,0 +1,7 @@
+/* 파일에 전체적으로 영향이 가는 css내용을 적을 예정 */
+body{
+    background-color: bisque;
+}
+*{
+    font-family: 'Gamja Flower', cursive;
+}
